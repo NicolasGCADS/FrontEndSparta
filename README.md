@@ -1,3 +1,5 @@
+# 🌐 FrontEnd com Visualização de Dados IBGE - React.js 
+
 Este projeto foi desenvolvido como solução para o **Desafio Desenvolvedor Frontend Júnior**, que consiste em consumir dados da API do **IBGE (SIDRA e Agregados)** e **(Catálogo de agregados)**
 
 ## ⚙️ Como Rodar Localmente
